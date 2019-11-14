@@ -1,3 +1,7 @@
+/*program on mergesort
+author:KUSANATH*/
+
+
 #include<stdio.h>
 void mergesort(int [],int,int,int);
 void partition(int arr[50],int low,int high)
